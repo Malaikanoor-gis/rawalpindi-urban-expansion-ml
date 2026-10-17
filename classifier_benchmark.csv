@@ -1,0 +1,4 @@
+model,acc_random_CV,F1macro_random_CV,acc_spatial_CV,F1macro_spatial_CV,optimism_gap
+RandomForest,0.755,0.755,0.751,0.751,0.004
+GradientBoosting,0.751,0.751,0.749,0.75,0.002
+SVM-RBF,0.782,0.783,0.779,0.78,0.003
